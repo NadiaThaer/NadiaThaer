@@ -17,7 +17,7 @@
 ## 💻 Skills & Expertise
 | Area               | Skills                         |
 |--------------------|--------------------------------|
-| **Programming**     | MIPS Assembly, C, Bash, HTML & CSS |
+| **Programming**     | MIPS Assembly, C, Bash, Java,HTML & CSS |
 | **Hardware Design** | Digital Circuit Simulation, System Verilog |
 | **Web Development** | Responsive Design, Frontend Basics |
 | **Data Structures** | Sorting, Hashing, Trees        |
