@@ -1,4 +1,4 @@
-# ✨ Nadia Shaikh - Computer Engineering Enthusiast
+# ✨ Nadia Shaikh - Computer Engineering student
 
 **👩‍💻 Computer Engineering Student | 💡 Creative Thinker | 🔧 Tech Innovator**
 
@@ -38,18 +38,6 @@
 - **Arabic:** Native 🇵🇸
 - **English:** B2 (Professional Working Proficiency) 🇺🇸
 
----
-
-## 🛠️ Languages & Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MIPS%20Assembly-%2380%25-orange?style=for-the-badge" alt="MIPS Assembly" />
-  <img src="https://img.shields.io/badge/C%20Programming-%2370%25-brightgreen?style=for-the-badge" alt="C Programming" />
-  <img src="https://img.shields.io/badge/Bash%20Scripting-%2350%25-yellow?style=for-the-badge" alt="Bash Scripting" />
-  <img src="https://img.shields.io/badge/HTML%20&%20CSS-%2385%25-blueviolet?style=for-the-badge" alt="HTML & CSS" />
-  <img src="https://img.shields.io/badge/System%20Verilog-%2340%25-red?style=for-the-badge" alt="System Verilog" />
-  <img src="https://img.shields.io/badge/Git%20&%20Linux-%2360%25-blue?style=for-the-badge" alt="Git & Linux" />
-</div>
 
 ---
 
