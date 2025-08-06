@@ -10,7 +10,7 @@
 
 ## 🎓 Education
 - **Birzeit University** — B.S. in Computer Engineering (Sep 2021 - Present)  
-*Key Courses:* Computer Architecture, Digital Integrated Circuits, Advanced Digital Design
+*Key Courses:* Computer Architecture, Digital Integrated Circuits, Advanced Digital Design ,Hardware Lab (Design verification & physical design )
 
 ---
 
